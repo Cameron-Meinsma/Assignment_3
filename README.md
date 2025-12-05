@@ -1,4 +1,4 @@
-# Assignment_3
+# Assignment 3
 Course: Collecting Data | Student Number: S6494935
 
 ### 1. Corpus
@@ -13,7 +13,7 @@ The corpus consists of 1 CSV file, which contains 3 columns:
 The data consists of news articles visible on Google News, that can be found under the U.S. topic webpage.
 
 ### 3. Cleaning of the Data
-The first 2 rows only contain links, but no title nor news source. I have therefore removed those first 2 rows.
+The first 2 rows of the pandas DataFrame only contain links, but no title nor news source. I have therefore removed those first 2 rows.
 
 ### 4. Format of the Files in the Corpus
 The corpus is in CSV format.
